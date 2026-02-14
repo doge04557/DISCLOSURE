@@ -1,0 +1,47 @@
+/* affects text in "body" tag */
+body {
+    background-color:darkslategray;
+    color:white;
+    text-align:center;
+    font-family:monospace;
+}
+
+/* TAGS */
+
+/* affects text in "h2" tag */
+h2 {
+    color:darkcyan
+}
+
+/* affects text in "p" tag */
+p {
+    font-size:14px;
+}
+
+/* affects text in "summary" tag */
+summary {
+    color:cadetblue;
+    font-size: 20px;
+    font-weight: bolder;
+}
+            
+/* .CLASSES */
+
+/* affects text with "bold" class */
+.bold {
+    font-weight:700;
+}
+
+/* affects text with "cyan" class */
+.cyan {
+    color:cyan;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+/* #IDS */
